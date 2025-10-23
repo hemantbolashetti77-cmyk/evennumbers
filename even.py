@@ -1,5 +1,5 @@
-numbers = list(map(int, input("Enter numbers separated by spaces: ").split()))
 
+numbers = list(map(int, input("Enter numbers separated by spaces: ").split()))
 even_count = 0
 odd_count = 0
 prime_count = 0
